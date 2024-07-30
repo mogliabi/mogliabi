@@ -1,5 +1,12 @@
-<h1 align="center">Hey, I'm Sascha 👩‍💻</h1>
+<div align="center">
+    <h1 align="center">Hey, I'm Sascha 👩‍💻</h1>
+    <hr>
+    <h4>🤵  About me</h4>
+    <p>Hello, i'm Sascha (19). I'm a developer for Discord and FiveM, more infos on discord (sushiizockt)</p>
+</div>
 
+
+    
 <hr>
 
 <div align="center">
