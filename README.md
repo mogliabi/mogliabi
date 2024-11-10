@@ -1,13 +1,3 @@
-<div align="center">
-    <h1 align="center">Hey, I'm Sascha 👩‍💻</h1>
-    <hr>
-    <h4>🤵  About me</h4>
-    <p>Hello, i'm Sascha (19). I'm a developer for Discord and FiveM, more infos on discord (sushiizockt)</p>
-</div>
-
-
-    
-<hr>
 
 <div align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=sushiizockt&show_icons=true&theme=dracula&count_private=true&include_all_commits=true&show_owner=true">&nbsp;&nbsp;
