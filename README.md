@@ -1,4 +1,4 @@
-<h4 align="center">🤖  Discords</h4>
+<h4 align="center">🤖  Discords  🤖</h4>
 <div align="center">
   <p>coming soon :)</p>
 </div>
@@ -17,7 +17,7 @@
 
 <hr>
 
-<h4 align="center">🌱  Operating System</h4>
+<h4 align="center">🌱  Operating System  🌱</h4>
 
 <p align="center">
     <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows">&nbsp;&nbsp;
@@ -25,7 +25,7 @@
 
 <hr>
 
-<h4 align="center">🛠️ Tools and Platforms</h4>
+<h4 align="center">🛠️  Tools and Platforms  🛠️</h4>
 <p align="center">  
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">&nbsp;&nbsp;
     <img src="https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2B%2B&logoColor=black" alt="NotePadPlusPlus">&nbsp;&nbsp;
