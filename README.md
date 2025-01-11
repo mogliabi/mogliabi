@@ -1,4 +1,4 @@
-<h4 align="center">🤖  Discords  🤖</h4>
+<h4 align="center">🤖 Discords 🤖</h4>
 <div align="center">
   <p>coming soon :)</p>
 </div>
