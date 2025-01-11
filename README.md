@@ -6,7 +6,7 @@
 
 <hr>
 
-<h4 align="center">🔭  Languages, Frameworks and Databases</h4>
+<h4 align="center">🔭  Languages, Frameworks and Databases  🔭</h4>
 
 <p align="center">
     <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">&nbsp;&nbsp;
